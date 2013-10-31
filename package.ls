@@ -17,5 +17,6 @@ main: \lib/index.js
 dependencies:
   optimist: \0.6.x
   pgrest: \0.0.x
+  'socket.io': \0.9.x
 devDependencies:
   LiveScript: '1.1.x'
